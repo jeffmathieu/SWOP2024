@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"textr"},{"l":"textr.directoryview"},{"l":"textr.json"}];updateSearchResults();
